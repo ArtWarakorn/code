@@ -1,0 +1,47 @@
+body {
+    background-image:url('wall.jpg');
+}
+
+.but {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
+    font-weight: bold;
+    background-color: rgb(4, 5, 82);
+    padding: 20px;
+    border-radius: 25px;
+    text-decoration: none;
+}
+
+#had {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-size: 70px;
+}
+
+.but:hover{
+    background-color: rgb(1, 98, 189);
+}
+
+p {
+    background-color: rgba(0, 60, 255, 0.288);
+    margin-top: 470px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    padding: 20px;
+    border-radius: 25px;
+    margin-left: 600px;
+    margin-right: 600px;
+}
+
+#cadit {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 30px;
+    padding-bottom: 300px;
+}
